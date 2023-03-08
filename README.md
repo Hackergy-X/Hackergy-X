@@ -21,10 +21,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 </div>
-<br/>
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 <br/>
 <h1>💫 About Me:</h1>
 Full stack developer position where I can utilize my skills in front-end and back-end web development, as well as my passion for problem-solving and continuous learning, to contribute to the success of a dynamic and innovative team.
