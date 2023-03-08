@@ -12,8 +12,9 @@
   </a>
 </div>
 </div>
-
-💫 About Me:
+<br/>
+<br/>
+<h1>💫 About Me:</h1>
 Full stack developer position where I can utilize my skills in front-end and back-end web development, as well as my passion for problem-solving and continuous learning, to contribute to the success of a dynamic and innovative team.
 
 - 🔭 I’m currently working on ...
