@@ -12,10 +12,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Hackergy-X&style=flat-square&color=blue" alt=""/>
-  <h2>
-  <img width="20" height="20" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" alt=""/> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+  <h1>
+  <img width="25" height="25" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" alt=""/> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
+</h1>
   
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
