@@ -13,7 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Hackergy-X&style=flat-square&color=blue" alt=""/>
   <h1>
-  <img width="30" height="30" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" alt=""/> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+  <img width="20" height="20" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" alt=""/> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
   
